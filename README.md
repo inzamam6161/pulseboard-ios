@@ -40,12 +40,12 @@ Portfolio showcase project. No external dependencies.
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/1 - home-light.png" width="240" alt="PulseBoard Home">
+  <img src="screenshots/1 - Home-light.png" width="240" alt="PulseBoard Home">
   <img src="screenshots/2 - Focus-timer.png" width="240" alt="PulseBoard Focus Timer">
   <img src="screenshots/3 - Insights.png" width="240" alt="PulseBoard Insights">
 </p>
 
 <p align="center">
   <img src="screenshots/4 - Activity.png" width="240" alt="PulseBoard Activity">
-  <img src="screenshots/5 - home-dark.png" width="240" alt="PulseBoard Dark Mode">
+  <img src="screenshots/5 - Home-dark.png" width="240" alt="PulseBoard Dark Mode">
 </p>
